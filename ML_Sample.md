@@ -49,7 +49,8 @@ The designed model consists of 11-feature Random Forest Classifier that compares
  * Increase time frame
  * Increase data rows
  * Modified to model market stage behavior in Futures assets: Crude Oil, Natural Gas, Heating Oil (Diesel), Gasoline (RBOB), Soybean Meal, Soybean, Wheat, Corn, British Pounds.
- * Change Bollinger Bands and keltener Channel indicators settings: period lengths and standard deviations parameter.
+ * Change Bollinger Bands and keltner Channel indicators settings: period lengths and standard deviations parameter.
+ * Develop a model that predicts the Bulge 
  * Added features to the ML Model predictor. 
 
 <p style="text-align: center;"> <font size="4"> Squeeze ML Classifier Confusion Matrix </font></p>
